@@ -1,0 +1,22 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "repositório para a disciplina de teste de software",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Makarios44/Testesft.git"
+  },
+  "author": "Makarios Mulenga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Makarios44/Testesft/issues"
+  },
+  "homepage": "https://github.com/Makarios44/Testesft#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
